@@ -1,0 +1,27 @@
+
+body {
+	background-color: black;
+	color: white;
+	font-family: Impact;
+	font-size: 1.5em;
+}
+h1 {
+	font-size: 3em;
+}
+button.jersey {
+	background-color: blue;
+	color: black;
+	font-family: Impact;
+	font-size: 1.25em;
+}
+button.name {
+	background-color: green;
+	color: black;
+	font-family: Impact;
+	font-size: 1.25em;
+}
+img {
+	margin-top: 20px;
+	margin-right: 10px;	
+	margin-bottom: 20px;
+}
