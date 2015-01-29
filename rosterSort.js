@@ -29,13 +29,3 @@ $("button.name").on("click", function() {
    insertionSort2();
 });
 
-
-
-
-// for (i = 0; i < switchers.length; i++) {
-//     $('#switchers ol li:nth-child(' + (i+1) + ')').css('color', 'green');
-// }
-
-// loopTimeout(0, switchers.length, 6000, function(i){
-//     $('#switchers ol li:nth-child(' + (i+1) + ')').css('color', 'green');    
-// });
